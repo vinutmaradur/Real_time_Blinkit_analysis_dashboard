@@ -111,12 +111,6 @@ This Excel project provides a comprehensive look at an e-commerce grocery busine
 - **Live Data** (Optional): You can replace the sample dataset with your own live data to see real-time insights. Make sure to maintain consistent column headers and formats.
 
 ---
-
-## For Live Dashboard check this
-
-  📊 **Live Dashboard**: [Click here to view](https://docs.google.com/spreadsheets/d/e/2PACX-1vSXYJkr8chjDJlVzfTlFp3vVZhCJsFqZfvEdWmR9fznGi7c_5YUw6Ja_rh-DZ0Gzg/pubhtml)
-
----
   
 ## Conclusion
 
