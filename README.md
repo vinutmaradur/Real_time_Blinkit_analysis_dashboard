@@ -77,6 +77,8 @@ This Excel project provides a comprehensive look at an e-commerce grocery busine
 
 - If the file is linked to external data sources, ensure they are properly connected or replaced with your own dataset.
 
+---
+
 ## Usage
 1.**Navigate to the Dashboard Sheet**
 
